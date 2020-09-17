@@ -16,8 +16,7 @@ def loop_message_five_times(message= "Hello world.")
   end
 end
 
-def output_array(
-  
+def output_array(  array = ["Be yourself;", "everyone else is already taken", "- Oscar Wilde"] )
   count = 0
   while count < array.length do
     puts array[count]
