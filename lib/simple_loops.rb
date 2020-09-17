@@ -24,7 +24,7 @@ def output_array(  array = ["Be yourself;", "everyone else is already taken", "-
   end
 end
 
-def return_string_array(array)
+def return_string_array(
   count = 0
   new_array = []
   while count < array.length do
