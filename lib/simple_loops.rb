@@ -23,3 +23,4 @@ def output_array(  array = ["Be yourself;", "everyone else is already taken", "-
     count += 1
   end
 end
+
